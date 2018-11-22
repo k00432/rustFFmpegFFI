@@ -1,0 +1,7 @@
+[package]
+name = "ffmpeg"
+version = "0.1.0"
+authors = ["kim"]
+
+[dependencies]
+libc = "0.2"
